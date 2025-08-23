@@ -10,14 +10,14 @@
 
                                 |
                                 v
-         🧙‍♂️ Amass begins the quest for hidden lands
+         🧙‍♂️ Amass the Wise begins the quest for hidden lands
          ---------------------------------------------------
          | Passive Scan: listens to whispers in the wind     |
          | Active Scan: sends ravens to scout the terrain     |
          ---------------------------------------------------
                                 |
                                 v
-         🛡️ Nmap rides forth to inspect defenses
+         🛡️ Sir Nmap of Portsland rides forth to inspect defenses
          ---------------------------------------------------
          | -sC -sV: interrogates the gatekeepers              |
          | -p- : checks every door in the castle              |
