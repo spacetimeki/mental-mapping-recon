@@ -1,6 +1,6 @@
 # Lab Notes – Recon with Nmap & Amass
 
-This document contains structured notes from a conceptual (based on a real life) lab using Nmap and Amass. The goal is to understand how to visualize and interpret network structures, ports, and subdomains in a safe, controlled environment. To be continued?
+This document contains structured notes from a conceptual (based on a real life) lab using Nmap and Amass. The goal is to understand how to visualize and interpret network structures, ports, and subdomains in a safe, controlled environment.
 
 ---
 
