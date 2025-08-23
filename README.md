@@ -10,7 +10,7 @@ Note: No actual exploitation was performed on live systems. All scans should be 
 
 Imagine the network as a city:
 - Networks are streets connecting locations
-- Domains are houses on those streets
+- Domains are houses/addresses on those streets
 - Ports are doors to those houses
 
 This mental model helps visualize the reconnaissance process while running safe scans.
