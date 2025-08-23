@@ -1,34 +1,30 @@
-# mental mapping - recon – conceptual practice
+# Mental Mapping - Recon – Conceptual Practice
 
-this lab demonstrates my conceptual practice in network and subdomain reconnaissance using Nmap and Amass.  
-*note: no actual exploitation was performed on live systems.*
+This lab demonstrates conceptual practice in network and subdomain reconnaissance using Nmap and Amass.  
+*Note: No actual exploitation was performed on live systems.*
 
-## lab concept
+## Lab Concept
 
-i visualized networks as streets, domains as houses, and ports as doors, practicing the reconnaissance process mentally while running safe scans.
+Imagine networks as streets, domains as houses, and ports as doors; Imagining the reconnaissance process visually while running safe scans.
 
-## tools
+## Tools
 
 - **Nmap** – network mapping and port scanning  
 - **Amass** – subdomain enumeration  
 - Linux VM (Kali)
 
-## recon phase examples
+## Recon Phase Examples
 
-### Nmap scans
+### Nmap Scans
 - `nmap -sC -sV example.com`  
 - `nmap -p 1-65535 -T4 example.com`
 
-### Amass scans
+### Amass Scans
 - `amass enum -d example.com`  
 - `amass viz -d example.com`
 
-## learning outcomes
+## Outcomes
 
-- understanding network structure and service exposure  
-- mapping domains and ports conceptually  
-- visualizing recon as a “city” of streets, houses, and doors
-
-## next steps
-
-- perhaps in the future...
+- Understanding network structure and service exposure  
+- Mapping domains and ports conceptually  
+- Visualizing recon as a “city” of streets, houses (addresses), and doors
