@@ -3,8 +3,8 @@
                          /     |     \
                         /      |      \
                   Port 80  Port 443 Subdomain Scouts
-               (Drawbridge) (Gate)  /       \
-                                   /           \
+               (Drawbridge) (Gate)  /             \
+                                   /               \
              🏘 blog.example-domain.com   🏘 admin.example-domain.com
                              (Villages in the realm)
 
