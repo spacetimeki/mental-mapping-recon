@@ -1,4 +1,4 @@
-# Mental Mapping Recon - The Basics of Knocking on Doors
+# Mental Mapping Recon: The Basics of Knocking on Doors
 
 This lab demonstrates conceptual practice in network and subdomain reconnaissance using Nmap and Amass.
 
