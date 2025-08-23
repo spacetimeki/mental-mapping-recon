@@ -1,23 +1,23 @@
 
-                 🏰 Kingdom of example.com 🏰
+                 🏰 Kingdom of example-domain.com 🏰
                          /     |     \
                         /      |      \
-               Port 80  Port 443   Subdomain Scouts
-              (Drawbridge)(Gate)     /       \
-                                   /         \
-                        🏘 blog.example.com   🏘 admin.example.com
+                  Port 80  Port 443 Subdomain Scouts
+               (Drawbridge) (Gate)  /       \
+                                   /           \
+             🏘 blog.example-domain.com   🏘 admin.example-domain.com
                              (Villages in the realm)
 
                                 |
                                 v
-         🧙‍♂️ Amass the Wise begins his quest for hidden lands
+         🧙‍♂️ Amass begins the quest for hidden lands
          ---------------------------------------------------
          | Passive Scan: listens to whispers in the wind     |
          | Active Scan: sends ravens to scout the terrain     |
          ---------------------------------------------------
                                 |
                                 v
-         🛡️ Sir Nmap of Portguard rides forth to inspect defenses
+         🛡️ Nmap rides forth to inspect defenses
          ---------------------------------------------------
          | -sC -sV: interrogates the gatekeepers              |
          | -p- : checks every door in the castle              |
