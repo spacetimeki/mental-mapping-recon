@@ -31,7 +31,7 @@ This lab showcases **conceptual practice of network reconnaissance** using Nmap 
 
 ### Visualizing the Network
 
-- Networks are like **streets** connecting **houses** (domains).
+- Networks are like **streets** connecting **houses/addresses** (domains).
 - **Ports** are **doors**—open doors may allow entry.
 - **Subdomains** are **side streets** or smaller houses branching off the main road.
 
