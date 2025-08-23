@@ -1,0 +1,87 @@
+# Conceptual Recon Lab – Nmap & Amass
+
+This lab showcases **conceptual practice of network reconnaissance** using Nmap and Amass.  
+
+> ⚠️ Disclaimer: This lab is conceptual. All exercises should be performed only in authorized environments. Do not attempt unauthorized scanning.
+
+---
+
+## Nmap Commands
+
+- **Scan top 1000 TCP ports**  
+```bash
+nmap -sC -sV example.com
+
+Purpose: Identify common open ports and running services.
+
+    Full port scan
+
+nmap -p 1-65535 -T4 example.com
+
+Purpose: Discover all potential entry points across all ports.
+
+    Aggressive scan (OS detection, scripts, version)
+
+nmap -A example.com
+
+Purpose: Gather detailed information about the host, including OS and services.
+
+    Scan specific service port (HTTP example)
+
+nmap -p 80 example.com
+
+Purpose: Focused scanning for a particular service.
+
+## Amass Commands
+
+    Subdomain enumeration
+
+amass enum -d example.com
+
+Purpose: Identify all associated subdomains.
+
+    Visualizing relationships
+
+amass viz -d example.com -o viz.png
+
+Purpose: Map relationships between domains and subdomains.
+
+    Passive recon only
+
+amass enum -passive -d example.com
+
+Purpose: Gather information without actively probing the target.
+Lab Notes – Conceptual Approach
+Visualizing the Network
+
+    Networks imagined as streets connecting multiple houses (domains).
+
+    Ports represented as doors; open doors indicate potential entry points.
+
+    Subdomains are side streets or smaller houses attached to main roads.
+
+## Insights
+
+    Recon provides the map for all further penetration testing phases.
+
+    Mental visualization improves decision-making when interpreting outputs.
+
+    Observing patterns in open ports and services helps prioritize high-value targets.
+
+## Key Takeaways
+
+    - Document each step thoroughly.
+
+    Understand the context of scan results.
+
+    Cross-reference Nmap and Amass outputs for comprehensive mapping.
+
+    Recon is continuous, iterative, and analytical.
+
+## Next Steps (Conceptual)
+
+    CVE research and exploitation in lab environments.
+
+    Advanced recon automation and scripting.
+
+    Storytelling practice: mentally visualize netwo
