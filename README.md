@@ -10,8 +10,8 @@ This lab demonstrates conceptual practice in network and subdomain reconnaissanc
 
 Imagine the network as a continuum of roads and streets:
 - Networks are roads connecting locations/addresses
-- Domains are buildings/addresses on those streets
-- Ports are doors to those buildings
+- Domains are buildings/addresses on those roads
+- Ports are doors 
 
 This mental model helps visualize the reconnaissance process while running safe scans.
 
