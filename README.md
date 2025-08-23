@@ -1,4 +1,4 @@
-# Mental Mapping Recon
+# Mental Mapping Recon - Basics of Pentesting
 
 This lab demonstrates conceptual practice in network and subdomain reconnaissance using Nmap and Amass.
 
