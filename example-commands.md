@@ -1,4 +1,4 @@
-# Conceptual Recon Lab – Nmap & Amass
+# Nmap & Amass
 
 This lab showcases **conceptual practice of network reconnaissance** using Nmap and Amass.
 
