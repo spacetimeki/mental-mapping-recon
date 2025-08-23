@@ -37,7 +37,7 @@ This lab showcases **conceptual practice of network reconnaissance** using Nmap 
 
 ### Key Insights
 
-- Recon is the **foundation** for all penetration testing phases.
+- Recon is the **foundation** for all pentesting.
 - **Mental models** help interpret scan results more effectively.
 - Spotting **patterns** in open ports and services helps prioritize targets.
 
