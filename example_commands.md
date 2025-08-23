@@ -54,4 +54,4 @@ This lab showcases **conceptual practice of network reconnaissance** using Nmap 
 
 ## Next Steps
 
-- Research **CVEs** and test exploits (in a lab environment). To be continued...
+- Research **CVEs** and test exploits (in a lab environment). To be continued in a different repository, perhaps?
