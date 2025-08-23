@@ -1,4 +1,4 @@
-# Mental Mapping Recon - Conceptual Practice
+# Mental Mapping Recon
 
 This lab demonstrates conceptual practice in network and subdomain reconnaissance using Nmap and Amass.
 
