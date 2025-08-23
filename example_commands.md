@@ -33,7 +33,7 @@ This lab showcases **conceptual practice of network reconnaissance** using Nmap 
 
 - Networks are like **streets** connecting **addresses** (domains).
 - **Ports** are **doors**—open doors may allow entry.
-- **Subdomains** are **side streets** or smaller houses branching off the main road.
+- **Subdomains** are like **buildings** or houses branching off the main road.
 
 ### Key Insights
 
@@ -55,4 +55,3 @@ This lab showcases **conceptual practice of network reconnaissance** using Nmap 
 ## Next Steps
 
 - Research relevant **CVEs** and test exploits in a lab environment.
-- Explore **automation and scripting** to streamline advanced recon tasks.
