@@ -54,4 +54,4 @@ This lab showcases **conceptual practice of network reconnaissance** using Nmap 
 
 ## Next Steps
 
-- Research **CVEs** and test exploits (in a lab environment). To be continued in a different repository, perhaps? Plus, you were supposed to also do your OSINT by now, which I hadn't covered.
+- Research **CVEs** and test exploits (in a lab environment). To be continued in a different repository, perhaps? Plus, you were supposed to also do your OSINT by now, and most likely a bunch of other things which I hadn't yet covered. 
