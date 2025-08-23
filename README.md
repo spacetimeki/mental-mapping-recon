@@ -6,7 +6,7 @@ This "lab" demonstrates conceptual practice in network and subdomain reconnaissa
 
 ---
 
-## Conceptual "Lab" Concept
+## Lab Concept
 
 Imagine the network as a continuum of roads and streets:
 - Networks are roads connecting locations/addresses
