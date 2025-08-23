@@ -1,4 +1,4 @@
-# Imagine these tools as knights and scouts exploring a digital kingdom 🏰
+Imagine these tools as knights and scouts exploring a digital kingdom 🏰
 
                  🏰 Kingdom of example.com 🏰
                          /     |     \
