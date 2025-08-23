@@ -54,4 +54,4 @@ This lab showcases **conceptual practice of network reconnaissance** using Nmap 
 
 ## Next Steps
 
-- More research. To be continued in a different repo, perhaps?
+- Advanced recon. To be continued in a different repo, perhaps?
