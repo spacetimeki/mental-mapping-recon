@@ -2,7 +2,7 @@
 
 This lab demonstrates conceptual practice in network and subdomain reconnaissance using Nmap and Amass.
 
-⚠️ Note: No actual exploitation was performed on live systems in this instance. All scans should be conducted in authorized environments only.
+⚠️ Note: No actual exploitation was performed on live systems today. All scans should be conducted in authorized environments only.
 
 ---
 
