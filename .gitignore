@@ -1,0 +1,41 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Output files from tools
+*.xml
+*.gnmap
+*.nmap
+output/
+results/
+
+# Screenshots and sensitive data
+screenshots/
+*.png
+*.jpg
+*.jpeg
+!amass-greeting.png
+
+# Environment files
+.env
+.env.local
